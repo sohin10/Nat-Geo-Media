@@ -17,6 +17,11 @@ Since I am new to using GitHub and had trouble getting my files published to a r
 
 The sketches and mockup are shown in the screenshots below. 
 
+
+## ADOBE XD : 
+[NATGEO-MOCKUP.xd.zip](https://github.com/sohin10/Nat-Geo-Media/files/10204965/NATGEO-MOCKUP.xd.zip)
+
+## IMAGES
 ![IMG_0641](https://user-images.githubusercontent.com/60220627/206971625-f93b2ad3-8dac-4e1a-95d9-89b55ef542f4.PNG)
 ![IMG_0642](https://user-images.githubusercontent.com/60220627/206971629-8916feb9-4431-4bdb-9873-94dbeba86c18.JPG)
 ![IMG_0643](https://user-images.githubusercontent.com/60220627/206971631-c75566ba-2cb6-4063-b2ea-adf2d57ead85.JPG)
@@ -33,6 +38,5 @@ https://user-images.githubusercontent.com/60220627/206971650-37d568a1-bec6-4659-
 https://user-images.githubusercontent.com/60220627/206971651-199d306b-8ad4-4459-8479-f43a290ebf14.MP4
 
 
-ADOBE XD : 
-[NATGEO-MOCKUP.xd.zip](https://github.com/sohin10/Nat-Geo-Media/files/10204965/NATGEO-MOCKUP.xd.zip)
+
 
