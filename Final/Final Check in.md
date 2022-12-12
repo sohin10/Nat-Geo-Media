@@ -1,0 +1,25 @@
+
+This project was extremely challenging and I struggled a great deal, but I am delighted with how far I've gotten and how much progress I've made. Towards the end of the project, I began to love it more, and every time I opened my xcode file, I asked myself, "What's next, what further can I add or create?" This was a significant milestone in my swift coding journey. 
+
+As stated previously, I desired to develop a social media app for National Geographic Photographers that would provide them with a space to communicate with people within the same community, as well as means to find each other and admire one another's work. 
+
+Before the final presentation, I decided that I wanted my software to feature an animated splash screen. Consequently, I remained up for around 43 hours straight learning about animation in swiftui and coding a splash screen where the logo animates, changes size, and travels towards the user before displaying the main homepage. 
+
+I learnt how to mask different shapes together and have their sizes and opacity alter, as well as how to construct animations using delay, toggle, and tap, among other techniques. My plan was to have the logo appear on screen initially, and then, as it begins to expand and emerge out of the screen, have the central portion of the logo become less opaque, allowing the home page to become visible, and then launch the homepage. However, I encountered various obstacles while attempting to comprehend it. I got to the point where it displayed the homepage as I masked the homepage view with the rectangle, but when it displayed the homepage, the home page lost its interactivity, so I changed it to simply have the logo mask with the background and have its size and opacity change, which also looked awesome. 
+
+The final app design, in my opinion, appeared to be harmonious with Nat Geo's aesthetics, however a great deal remains to be implemented and polished to make it a better app. 
+
+In the coming months, I intend to delve more into swiftui. My objective for the remainder of this project is to develop a camera view that allows users to take and upload images to their profile. I would also like to construct a reels view and utilize the AVkit in swiftui. 
+
+I've always had a fascination with animation, and as I progress in my career in design, I intend to incorporate animations and interactivity whenever possible. I adore how animations can breathe life into a static page or screen and excite consumers. Consequently, I wish to learn how to build micro animations and application interactivity using swiftui. 
+
+This course has been quite motivating, and I used to enjoy it when you showed us motivational videos because they were so helpful and pushed me to begin coding. Thank you for sharing your life, experience, and insights about how you got started in software; it was truly motivating and inspired me to learn new things in every way possible. As I became more experienced with coding, I revisited the class recordings and was ultimately able to follow along and comprehend code substantially better. I'm pleased to have these as a resource for enhancing my comprehension and app development. 
+
+I've never mentioned it before, but I adore Apple and Disney. Both are firms I would love to work for at some time in my life. Currently, I envision myself working and pursuing a career as a UI designer, not a UX designer. I want to work in design and concentrate more on the front end. I want to produce unique designs and have my own style and aesthetic. My undergraduate degree is in Electronics and Telecommunications Engineering; however, I've always enjoyed design, animations, and art, and I still think like an engineer, which allows me to better compress my concepts. 
+I enrolled in this course for two reasons: first, because I wanted to add iOS coding to my skill set, and second, because I enjoy being challenged and attempting new things. This course has brought me one step closer to achieving my professional goals as a designer. Before this class, I had no idea what xcode or swift and swift ui were or what they could do. However, I've gathered so much knowledge and want to one day be able to call myself a UI designer and software developer. Having taken this course and learned so much from you, I can now apply for ui/ux jobs in the future as well as software developer roles, which I never in my wildest dreams would have considered being interested in. 
+
+I will continue to study swift ui in order to create additional animations and designs that are both accessible and aesthetically beautiful. I adore how coding has the potential and ability to produce intriguing design, and I intend to explore deeper into this topic. I am now working on building a series of animations using swift ui for my portfolio, similar to the splash screen animation on my app. I believe there's a significant opportunity here, and I'm excited to start developing. 
+
+Overall, I'm starting to enjoy coding in swiftui (though I do occasionally want to hurl my laptop out the window), and I can't wait to see where this takes me.
+
+
